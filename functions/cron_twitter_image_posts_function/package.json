@@ -1,0 +1,11 @@
+{
+	"name": "cron_twitter_image_posts_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "shankarr+1001@zohocorp.com",
+	"dependencies": {
+		"canvas": "^2.8.0",
+		"twit": "^2.2.11",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
